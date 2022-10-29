@@ -28,7 +28,7 @@ pip install -r requirements.txt
 ```
 
 ### Demo
-Generate geometric augmentations of face images from folder.You can add paths to facial landmarks or masks to apply the same transformations on them.
+Generate geometric augmentations of face images from folder. You can add paths to facial landmarks or masks to apply the same transformations on them.
 Run the following command from the terminal.
 
 ```
