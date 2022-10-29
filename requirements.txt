@@ -1,0 +1,8 @@
+torch>=1.3
+opencv-python
+pyrender
+trimesh
+numpy
+dlib
+glob2
+tqdm
